@@ -1,8 +1,11 @@
 # ABC_2409_JB
-ABCDEV
 
-23/09/2024
+Bugnicourt Julien
 
-28/02/2025
+En Formation ABCDEV
 
-inconnu 
+Date de début de la Formation 23/09/2024
+
+Date de fin de la formation 28/02/2025
+
+Date du Stage  : inconnu 
